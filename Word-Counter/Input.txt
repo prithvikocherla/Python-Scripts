@@ -1,0 +1,203 @@
+﻿nexus   add remove   unable to log interaction with hcp  not showing in interact
+interact amer   veeva   contacts not showing
+interact amer   unable to find hcp
+interact   unable to see a customer added it a month ago
+cust mgmt  51 customers dropped
+interact us   contacts missing after sync
+interact   us missing contacts after sync
+interact amer   missing   clients
+interact us   keep dropping customers
+interact amer   missing   customer
+interact   us   interaction   more than 100 customers doesn t show up anymore
+interact   missing customers
+interact   us   interaction   more than 100 customers doesn t show up anymore
+interact
+interact  missing contacts
+interact amer   missing customer
+nexus   missing customer
+interact amer   customers not available in interact
+interact amer   missing providers
+interact amer   territory drops   several accounts
+interact  amer sync issue
+interact  account drops after sync
+interact amer   cust mgmt   6 accounts dropped
+nexus   unable to find hcp
+nexus   unable to log in missing customer
+interact us  add fields to report type
+nexus   unable ot add customer back to territory
+nexus   add not showing
+interact emea   missing new call plan
+interact amer   missing hcp
+interact us   customers dropped
+interact amer   missing customers   database empty
+interact amer   dropped all customers
+interact amer   customers dropped
+interact amer   how to   refresh database
+interact amer   accounts missing
+interact   unable to see his doctors on acouple of hospitals in gainesville florida
+interact amer   cust mgmt   customer missing from interact
+interact amer   access  unable to find hcp in her veeva database after syncing
+interact emea   missing   clients
+interact   243 customers dropped out from territory
+interact amer   hcp not showing in interact
+interact  amer account ihc specialty dropped
+interact amer   accounts dropped after sync
+interact us   missing calls
+interact us   unabe to see a new customer
+how to restore a missing customer in interact  us
+interact  customer missing from interact
+interact amer   mid laf   unable to sample
+interact amer   unable to find cust
+interact   unable to see his customer after update   sunrise
+interact  amer   cannot edit medical enquiry
+interact amer   missing accounts
+interact amer   cust mgmt   group of customers keeps disappearing
+interact amer   unable to find account
+interact   hcp missing
+interact amer   customer missing
+ineract amer   sample shipment
+interact amer   sample for address is missing
+interact amer   hcps not showing up in interact search  but are showing as aligned in nexus
+inter amer   how to   refresh database
+cust mgmt  2 customers dropped from database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+veeva   hcp moved out of area notification
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact emea   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   database
+nexus   how to   add address
+nexus   how to   add hcp to interact
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact latam   how to   refresh database
+interact amer   how to   refresh database
+cust mgmt  how to associate customer to account
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh
+nexus   how to   add customer
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+nexus   add remove   unable to log interaction with hcp  not showing in interact
+nexus   unable ot add customer back to territory
+inter amer   how to   refresh database
+nexus   add not showing
+interact emea   missing new call plan
+interact amer   missing hcp
+interact amer   how to   refresh database
+interact emea   how to   refresh database
+interact amer   how to   refresh database
+interact us   customers dropped
+interact amer   missing customers   database empty
+interact amer   dropped all customers
+interact amer   customers dropped
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   accounts missing
+interact   unable to see his doctors on acouple of hospitals in gainesville florida
+interact amer   how to   refresh database
+interact amer   cust mgmt   customer missing from interact
+interact amer   access  unable to find hcp in her veeva database after syncing
+interact emea   missing   clients
+interact   243 customers dropped out from territory
+interact  amer account ihc specialty dropped
+interact amer   hcp not showing in interact
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   accounts dropped after sync
+interact us   missing calls
+interact us   unabe to see a new customer
+how to restore a missing customer in interact  us
+interact amer   how to   refresh database
+interact  customer missing from interact
+interact amer   how to   database
+nexus   how to   add address
+interact amer   mid laf   unable to sample
+nexus   how to   add hcp to interact
+interact amer   how to   refresh database
+interact amer   unable to find cust
+nexus   remove hcp from his territory
+interact  amer   cannot edit medical enquiry
+interact   unable to see his customer after update   sunrise
+interact amer   missing accounts
+interact amer   cust mgmt   group of customers keeps disappearing
+interact amer   how to   refresh database
+interact amer   unable to find account
+interact   hcp missing
+interact amer   customer missing
+interact amer   how to   refresh database
+ineract amer   sample shipment
+interact amer   how to   refresh database
+interact latam   how to   refresh database
+interact amer   how to   refresh database
+cust mgmt  how to associate customer to account
+interact amer   how to   refresh database
+interact amer   veeva   contacts not showing
+interact amer   how to   refresh database
+interact amer   sample for address is missing
+interact amer   hcps not showing up in interact search  but are showing as aligned in nexus
+interact amer   how to   refresh database
+interact amer   unable to find hcp
+interact amer   how to   refresh database
+interact   unable to see a customer added it a month ago
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh
+nexus   how to   add customer
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+cust mgmt  51 customers dropped
+interact us   contacts missing after sync
+interact   us missing contacts after sync
+interact amer   missing   clients
+interact us   keep dropping customers
+interact amer   missing   customer
+interact   us   interaction   more than 100 customers doesn t show up anymore
+interact   missing customers
+interact   us   interaction   more than 100 customers doesn t show up anymore
+interact
+interact  missing contacts
+cust mgmt  2 customers dropped from database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   missing customer
+interact amer   how to   refresh database
+nexus   missing customer
+interact amer   how to   refresh database
+interact amer   customers not available in interact
+interact amer   missing providers
+interact amer   territory drops   several accounts
+interact  account drops after sync
+interact amer   how to   refresh database
+interact  amer sync issue
+interact amer   cust mgmt   6 accounts dropped
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+interact amer   how to   refresh database
+veeva   hcp moved out of area notification
+outlook   ios setup
+network  export error log of crm to network on 2nd jan
+capture elds image for johnny devincentis
