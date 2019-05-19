@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 from pytube import YouTube
 import pytube
+import urllib
 
 base = "https://www.youtube.com/results?search_query="
 string = "video-name"
