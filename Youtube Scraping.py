@@ -7,7 +7,8 @@ from pytube import YouTube
 import pytube
 
 base = "https://www.youtube.com/results?search_query="
-qstring = "video-name"
+string = "video-name"
+qstring = urllib.parse.quote(string)
 
 r = requests.get(base+qstring)
 
